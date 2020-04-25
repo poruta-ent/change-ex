@@ -19,4 +19,23 @@
 * (https://zdrowejestczadowe.pl/dietetyczne-ciasto-cytrynowe-bez-cukru-z-fit-polewa-lukrowa-zdrowe-slodycze/)
 
 ####Kids:
-* [eng](https://courses.fredisalearns.com/amember/signup)
+* [eng - fredisalearns](https://courses.fredisalearns.com/amember/signup)
+* [eng - rock your english](https://www.youtube.com/channel/UClrTaxNIXblGc5RNXnP0_4Q)
+* [eng - minute earth](https://www.youtube.com/user/minuteearth)
+* [eng - minute physics](https://www.youtube.com/user/minutephysics)
+* [eng - minute o wszystkim](https://www.youtube.com/user/crashcourse)
+* [eng - history](https://www.youtube.com/channel/UC510QYlOlKNyhy_zdQxnGYw)
+* [code - codecombat](https://codecombat.com/play)
+* [code - codemonkey](https://www.codemonkey.com/)
+* [mat - khan](https://www.youtube.com/user/KhanAcademyPolski)
+* [historia na szybko](https://www.youtube.com/playlist?list=PLBJEVn1h83HxvCVusUnwJqCoHIZed96Rt)
+* [wirtualna wieliczka](https://www.ai360.pl/panoramy/278)
+* [wirtualny malbork](https://muzeumzamkowewmalborku.wkraj.pl/html5/index.php?id=34844#69107/0)
+* [Tomasz Rożek](https://www.youtube.com/user/naukatolubie)
+
+####Na później
+* (https://www.youtube.com/user/SciTeraz)
+* (https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA)
+* (https://www.youtube.com/user/Astrofaza/playlists)
+* [chemia](https://www.youtube.com/channel/UCfYPjDbhT01HYwvCIC29tVg)
+* [eng](https://www.youtube.com/channel/UC510QYlOlKNyhy_zdQxnGYw)
