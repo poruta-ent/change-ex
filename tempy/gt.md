@@ -40,11 +40,12 @@
 1. Załóż repo zdalne
 2. **git init** - lokalnie w katalogu gdzie ma być repo
 3. **git remote add origin https://github.com/poruta-ent/_repo_.git** - połączenie repo, origin można zastąpić czymś innym ale wtedy przy pushowaniu trzeba tego czegoś innego używać
-
+4. **git remote -v** - pokazuje zdalne repa
 
 ____
 #### Configure SSH connection
-
+* ssh-keygen -t rsa -b 4096 -C “twój mail”
+* odnajdź plik na dysku i skopiuj go do gita
 
 ____
 #### Work with branches:
