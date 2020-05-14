@@ -67,11 +67,13 @@ ____
     * minimum acceptable value / the break-even point for investment (constraint)
     * desired value (target)
 
-
-
-
 ### Priorities 
 * Real business goals instead of features
 * Low hanging high value
 * Biggest risk
 * Test key assumptions
+
+###DEVOPS
+* technical debt - decyzje prowadzą do problemów, które z biegiem czasu stają się coraz trudniejsze do rozwiązania.
+* uważaj na stworzenei warunków **wyuczonej bezradności**
+* analiza problemu - nie po to by karać, ale po to aby zrozumieć i zapobiec w przyszłości
