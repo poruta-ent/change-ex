@@ -67,13 +67,46 @@ ____
     * minimum acceptable value / the break-even point for investment (constraint)
     * desired value (target)
 
+* Metrics:
+    * Lead Time / Cycle Time
+    * % C/A - complted & accurate - % przypadków, w których wejście procesu otrzymuje pracę gotową do wykorzystania (bez konieczności korygowania)
+
+### Excellence
+* **MAKE WORK VISIBLE**
+    * zbyt łatwo generuje się prace (tickets, prośby, etc.)
+    * zobacz czy praca przepływa sprawnie - gdzie kolejki, martwe punkty
+    * ustalaj priorytety
+* **LIMIT WIP**
+    * lepiej zrobić coś niż nic, przestań zaczynać, zacznij kończyć
+* **LIMIT BATCH SIZE**
+    * skrócenie czasu realizacji i zwiększenie jakości
+* **ZMNIEJSZ LICZBĘ PRZEŁĄCZEŃ**
+    * automatyzuj
+* **ELIMINUJ OGRANICZENIA**
+    * zawsze jedno i zawsze podporządkuj wszytstko eliminacji
+* **LIMIT WASTE**
+    * Prace wykonane częściowo - stają się przestarzałe, tracą wartość
+    * Dodatkowe procesy - te, które nie dodają wartości, dodatkowy wysiłek, dłuższy czas realizacji
+    * Dodatkowe funkcje - niewymagane przez klienta, pozłacanie
+    * Przełączanie pomiędzy zadaniami
+    * Oczekiwanie
+    * Ruch - przekazywanie pracy
+    * Defekty
+    * Prace niestandardowe / ręczne
+    * Heroizm :)
+
+  
+    
+   
+
+
 ### Priorities 
 * Real business goals instead of features
 * Low hanging high value
 * Biggest risk
 * Test key assumptions
 
-###DEVOPS
+### DEVOPS
 * technical debt - decyzje prowadzą do problemów, które z biegiem czasu stają się coraz trudniejsze do rozwiązania.
 * uważaj na stworzenei warunków **wyuczonej bezradności**
 * analiza problemu - nie po to by karać, ale po to aby zrozumieć i zapobiec w przyszłości
