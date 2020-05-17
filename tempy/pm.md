@@ -94,8 +94,12 @@ ____
     * Defekty
     * Prace niestandardowe / ręczne
     * Heroizm :)
-
-  
+* **IDENTIFY PROBLEMS JUST AFTER THEY APPEAR**
+    * pętla sprzężenia zwrotnego i sprzężenia w przód
+    * SWARMING - wszyscy rzucają się na problem (możesz dać np. jeżeli w ciągu x czasu odpowiedzialny nie jest w stanie zadziałać)
+    * ograniczaj rozprzestrzenianie sie w dół strumienia
+    * nie rozpoczynaj pracy nad nowym
+    * ODPOWIEDZIALNOŚĆ ZA JAKOŚĆ U ŹRÓDŁA I NATYCHMIAST
     
    
 
