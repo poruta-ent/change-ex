@@ -110,6 +110,11 @@ ____
 * Biggest risk
 * Test key assumptions
 
+### TEAM MANAGEMENT:
+* **Tasks assignments** 
+    * SL2
+    * Csikszentmihalyis Flow Model
+
 ### DEVOPS
 * technical debt - decyzje prowadzą do problemów, które z biegiem czasu stają się coraz trudniejsze do rozwiązania.
 * uważaj na stworzenei warunków **wyuczonej bezradności**
