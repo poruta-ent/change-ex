@@ -19,6 +19,17 @@
 * Długość przypadku testowego
 * Zbieranie dowodów, żeby móc zdiagnozować
 
+#### Opłacalność testów automatycznych
+* Co jest do zautomatyzowania?
+* Jakie są koszty stowrzenia?
+* Jakie są koszty utrzymania?
+* Jak często będziemy używać?
+* Jak wpłyną na jakość w porównaniu z ręcznymi?
+* Ile pozostanie manualnych?
+* Infrastruktura?
+* Co będziemy robić z zaoszczędzonym czasem - byle nie tylko utrzymywać?
+* ROI?
+
 ___
 ### ZARZĄDZANIE
 #### Kto powinien pisać:
@@ -60,3 +71,6 @@ ___
 #### Efektywność automatów
 * regularne uruchamianie
 * bieżąca obsługa błędów
+
+
+http://ww2.ii.uj.edu.pl/~roman/TDT/
