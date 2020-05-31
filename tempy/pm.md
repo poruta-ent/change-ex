@@ -117,5 +117,11 @@ ____
 
 ### DEVOPS
 * technical debt - decyzje prowadzą do problemów, które z biegiem czasu stają się coraz trudniejsze do rozwiązania.
-* uważaj na stworzenei warunków **wyuczonej bezradności**
-* analiza problemu - nie po to by karać, ale po to aby zrozumieć i zapobiec w przyszłości
+* uważaj na stworzenie warunków **wyuczonej bezradności**
+* analiza/rozwiązanie problemu
+    * nie po to by karać, ale po to aby zrozumieć i zapobiec w przyszłości
+    * techniki:
+        * swarming
+	* post-mortem
+	* jawna alokacja czasu na backlog problemów
+	* kaizen blitzes
