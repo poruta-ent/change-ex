@@ -1,6 +1,7 @@
 ### Useful links:
 * [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [.net core cli](https://docs.microsoft.com/pl-pl/dotnet/core/tools/) 
+* [vs shortcuts](http://visualstudioshortcuts.com/2017/)
 
 
 ### General useful tips
