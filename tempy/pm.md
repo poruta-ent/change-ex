@@ -122,6 +122,6 @@ ____
     * nie po to by karać, ale po to aby zrozumieć i zapobiec w przyszłości
     * techniki:
         * swarming
-	* post-mortem
-	* jawna alokacja czasu na backlog problemów
-	* kaizen blitzes
+        * post-mortem
+        * jawna alokacja czasu na backlog problemów
+        * kaizen blitzes
