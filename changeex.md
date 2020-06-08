@@ -11,6 +11,8 @@
 
 ####Check:
 * https://vogsy.com/blog/kpi-dashboard-professional-services-companies/
+* https://www.sqlshack.com/sql-index-maintenance/
+* https://solutioncenter.apexsql.com/how-to-create-and-optimize-sql-server-indexes-for-better-performance/
 
 
 ####Cook:
