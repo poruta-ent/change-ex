@@ -1,6 +1,8 @@
 ####Read:
 * [amazon - how to measure anything](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U/ref=sr_1_1?crid=D1KWWGM0VKEO&dchild=1&keywords=how+to+measure+anything&qid=1587214628&sprefix=how+to+measure+any%2Caps%2C913&sr=8-1)
 
+####Buy:
+* https://www.ksiegarnia.beck.pl/18811-monitor-prawniczy-nr-21-2019-dodatek-specjalny-prawo-nowych-technologii
 
 ####Watch:
 * unorthodox
@@ -13,12 +15,20 @@
 * https://vogsy.com/blog/kpi-dashboard-professional-services-companies/
 * https://www.sqlshack.com/sql-index-maintenance/
 * https://solutioncenter.apexsql.com/how-to-create-and-optimize-sql-server-indexes-for-better-performance/
-
+* http://udidahan.com/2010/08/31/race-conditions-dont-exist/
+* https://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid
+* https://www.packtpub.com/application-development/hands-domain-driven-design-net-core
+* https://subscribe.packtpub.com/pricing/
 
 ####Cook:
 * (https://www.domowe-wypieki.pl/przepisy/ciastka-male-wypieki/614-paluszki-ptysiowe)
 * (https://zdrowejestczadowe.pl/fit-tarta-na-kokosowym-spodzie-z-czekoladowym-budyniem-jaglanym/)
 * (https://zdrowejestczadowe.pl/dietetyczne-ciasto-cytrynowe-bez-cukru-z-fit-polewa-lukrowa-zdrowe-slodycze/)
+
+####Done:
+* [Cognitive Biases] (https://www.youtube.com/watch?v=wEwGBIr_RIw)
+* [No estimates] (https://vimeo.com/145049619)
+* [No estimates] (https://www.youtube.com/watch?v=A1Bsq8HbaAY)
 
 ####Kids:
 * [eng - fredisalearns](https://courses.fredisalearns.com/amember/signup)
